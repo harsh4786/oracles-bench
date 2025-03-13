@@ -15,7 +15,7 @@ use yellowstone_grpc_proto::geyser::{
     subscribe_update::UpdateOneof, SubscribeRequest, SubscribeRequestFilterAccounts,
 };
 
-pub const GEYSER_URL: &str = "http://45.250.255.183:10000";
+pub const GEYSER_URL: &str = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 #[tokio::main]
 async fn main() {
